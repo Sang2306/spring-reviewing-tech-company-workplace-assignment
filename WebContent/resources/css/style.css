@@ -1,0 +1,46 @@
+#bg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.slogan {
+	background-color: black;
+	color: greenyellow;
+}
+
+.detail-link {
+	color: rgb(73, 73, 248);
+	text-decoration: underline;
+}
+
+.detail-link:hover {
+	color: red;
+	text-decoration: none;
+}
+
+.slogan-page {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 1rem;
+}
+
+.company-logo {
+	width: 150px;
+	height: 100px;
+}
+
+.company-info-brief {
+	font-size: 12px;
+}
+
+.alert-info {
+	font-weight: bold;
+}
+
+#companyImg {
+	width: 254px;
+	height: 200px;
+}

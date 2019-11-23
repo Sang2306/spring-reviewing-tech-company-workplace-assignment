@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/add-company.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/base/login-form.jsp=UTF-8
+encoding//src/app/controller/AdminController.java=UTF-8
+encoding//src/app/controller/CommentController.java=UTF-8
+encoding//src/app/controller/CompanyController.java=UTF-8
+encoding//src/app/controller/HomeController.java=UTF-8
+encoding//src/app/controller/ReviewerController.java=UTF-8
+encoding//src/app/controller/SearchController.java=UTF-8
